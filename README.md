@@ -1,4 +1,3 @@
-<img width="6385" height="5011" alt="diagram" src="https://github.com/user-attachments/assets/0d856944-68b1-46a5-8de9-012f489ecc38" />
 # 📰 News Pulse Analyzer Pipeline
 
 ### AI-Powered Global News Intelligence System
@@ -190,6 +189,9 @@ Features:
 | query_term   | Text      | Search keyword |
 
 ---
+
+<img width="6385" height="5011" alt="diagram" src="https://github.com/user-attachments/assets/0d856944-68b1-46a5-8de9-012f489ecc38" />
+
 
 ## 🧪 Example Flow
 
